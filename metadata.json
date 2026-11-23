@@ -1,0 +1,6 @@
+{
+  "name": "T-Deck World",
+  "description": "Persistent emergent AI civilization simulator with Q-learning brains, quantized long-term memory archives, emergent language, trading, loyalty kingdoms, and first-person raycast POV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
